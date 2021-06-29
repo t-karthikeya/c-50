@@ -1,0 +1,13 @@
+.header{
+    background-color: rgb(243, 243, 208);
+}
+.menu{
+   background-color: tan;
+}
+.grid{
+     background-color: palegoldenrod;
+}
+.item{
+    background-color: rgb(241, 215, 172);
+    text-align: center;
+}
